@@ -89,9 +89,9 @@ Discussion A (Wednesdays 1pm) will be on simulating an ODE model. The worksheet 
 Discussion B (Thursdays 1 pm) will be on data frames using dplyr. The worksheet is [here](discdplyr.pdf)
 
 
+### Week 3 Instructions
 
-
-
+[Here](week3instructions.pdf) are the instructions for presentations and the proposal for week 3.
 
 
 
