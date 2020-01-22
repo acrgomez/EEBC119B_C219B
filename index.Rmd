@@ -94,4 +94,11 @@ Discussion B (Thursdays 1 pm) will be on data frames using dplyr. The worksheet 
 [Here](week3instructions.pdf) are the instructions for presentations and the proposal for week 3.
 
 
+# Week 3
 
+Student presentations on Week 3 will be at Terasaki 4000.
+
+## Week 3 Discussion 
+
+Discussion A worksheet is [here](disc3.pdf)
+Discussion B worksheet is [here](discggplot.pdf)
