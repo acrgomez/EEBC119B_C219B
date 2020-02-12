@@ -101,4 +101,17 @@ Student presentations on Week 3 will be at Terasaki 4000.
 ## Week 3 Discussion 
 
 Discussion A worksheet is [here](disc3.pdf)
+
 Discussion B worksheet is [here](discggplot.pdf)
+
+
+# Week 5 
+
+Discussion A worksheet is [here](disc5.pdf)
+
+Discussion B worksheet is [here](gillespie.pdf)
+
+
+# Week 6
+
+For discussion A we will be talking about lubridate. A lubridate cheat sheet is available [here](https://rawgit.com/rstudio/cheatsheets/master/lubridate.pdf)
