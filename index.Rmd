@@ -115,3 +115,7 @@ Discussion B worksheet is [here](gillespie.pdf)
 # Week 6
 
 For discussion A we will be talking about lubridate. A lubridate cheat sheet is available [here](https://rawgit.com/rstudio/cheatsheets/master/lubridate.pdf)
+
+
+And [here](fastR.pptx) are my slides on why R is slow and a few tricks to make it faster.
+
