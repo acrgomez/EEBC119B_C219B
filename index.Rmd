@@ -119,3 +119,8 @@ For discussion A we will be talking about lubridate. A lubridate cheat sheet is 
 
 And [here](fastR.pptx) are my slides on why R is slow and a few tricks to make it faster.
 
+
+# Week 7
+
+[Here](lhs.pdf) is the discussion worksheet on latin hypercube sampling.
+
